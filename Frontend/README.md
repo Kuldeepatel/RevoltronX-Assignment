@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/news-headlines-website.git
+   git clone https://github.com/Kuldeepatel/RevoltronX-Assignment
    ```
 
 2. **Navigate to the Project Directory:**
