@@ -78,3 +78,6 @@ Replace your_news_api_key with the API key you obtained from News API.
 - **Tailwind CSS**: Utility-first CSS framework for fast styling.
 - **Axios**: Promise-based HTTP client for making requests.
 - **React Icons**: Library of popular icons for React applications.
+
+- ![Project Screenshot](./NewsPage.png)
+
