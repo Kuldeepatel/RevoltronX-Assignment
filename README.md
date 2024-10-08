@@ -37,12 +37,12 @@ Follow these steps to set up and run the project locally.
    ```
 3. **Set Up Environment Variables:**
 
-Create a .env file in the root of your project and add your News API key:
+  Create a .env file in the root of your project and add your News API key:
 
-```bash
-NEWS_API_KEY=your_news_api_key
-```
-Replace your_news_api_key with the API key you obtained from News API.
+  ```bash
+  NEWS_API_KEY=your_news_api_key
+  ```
+  Replace your_news_api_key with the API key you obtained from News API.
 
 4. **Install Dependencies:**
 
@@ -78,6 +78,11 @@ Replace your_news_api_key with the API key you obtained from News API.
 - **Tailwind CSS**: Utility-first CSS framework for fast styling.
 - **Axios**: Promise-based HTTP client for making requests.
 - **React Icons**: Library of popular icons for React applications.
-
+- 
+### Picture of Website
+- **Laptop and Desktop Screen**
 - ![Project Screenshot](./NewsPage.png)
+
+- **Tablet Screen**
+- [Tablet Screenshot](./Tablet Screenshot.png)
 
