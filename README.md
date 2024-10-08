@@ -35,8 +35,16 @@ Follow these steps to set up and run the project locally.
    ```bash
    cd Frontned
    ```
+3. **Set Up Environment Variables:**
 
-3. **Install Dependencies:**
+Create a .env file in the root of your project and add your News API key:
+
+```bash
+NEWS_API_KEY=your_news_api_key
+```
+Replace your_news_api_key with the API key you obtained from News API.
+
+4. **Install Dependencies:**
 
    ```bash
    npm install
