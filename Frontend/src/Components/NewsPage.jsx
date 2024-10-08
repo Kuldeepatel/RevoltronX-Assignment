@@ -28,7 +28,7 @@ const NewsPage = () => {
                     from: formatDate(threeDaysAgo),
                     to: formatDate(currentDate),
                     domains: 'thehindu.com,indiatimes.com,ndtv.com,financialexpress.com,business-standard.com,indianexpress.com,livemint.com,news18.com,zeenews.india.com,timesofindia.indiatimes.com,aajtak.in,abplive.com,amarujala.com,jagran.com,punjabkesari.in,tv9bharatvarsh.com,indiatvnews.com,republicworld.com,etbrandequity.com,dharmakshetra.com,naidunia.com',
-                    apiKey: '4b0514f06c174c2991de172b4d6eb22e'
+                   apiKey: import.meta.env.NEWS_API_KEY // Use the API key from the .env file
                 }
             });
             setHeadlines(response.data.articles.slice(0, 10)); // Fetch top 10 headlines
