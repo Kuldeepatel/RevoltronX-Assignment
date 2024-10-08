@@ -84,5 +84,4 @@ Follow these steps to set up and run the project locally.
 - ![Project Screenshot](./NewsPage.png)
 
 - **Tablet Screen**
-- ![Tablet Screenshot](./Tablet Screen.png).
-
+- ![Project Screenshot](./TabletScreen.png)
