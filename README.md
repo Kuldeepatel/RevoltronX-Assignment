@@ -83,12 +83,12 @@ Follow these steps to set up and run the project locally.
 
 - **Laptop and Desktop Screen**
   
-- ![Project Screenshot](./NewsPage.png)
+  ![Project Screenshot](./NewsPage.png)
 
 -  **Phone Screen**
 
-  - ![Project Screenshot](./PhoneScreen.png)
+   ![Project Screenshot](./PhoneScreen.png)
 
 - **Tablet Screen**
   
-- ![Project Screenshot](./TabletScreen.png)
+ ![Project Screenshot](./TabletScreen.png)
