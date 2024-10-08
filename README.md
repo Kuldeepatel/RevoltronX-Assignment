@@ -80,8 +80,15 @@ Follow these steps to set up and run the project locally.
 - **React Icons**: Library of popular icons for React applications.
 - 
 ### Picture of Website
+
 - **Laptop and Desktop Screen**
+  
 - ![Project Screenshot](./NewsPage.png)
 
+-  **Phone Screen**
+
+  - ![Project Screenshot](./PhoneScreen.png)
+
 - **Tablet Screen**
+  
 - ![Project Screenshot](./TabletScreen.png)
